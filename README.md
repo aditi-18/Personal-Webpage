@@ -56,3 +56,13 @@ The technical knowledge section has a table styled using css.
     ![](/img/cl1.PNG)
     *Animated button dropdown- when one button is clicked, text appears in the project section.
     ![](/img/pr.PNG)
+
+### Mouse hovering
+    The following have mouse hover enabled-
+
+    *Contact me button
+    *Download resumw button
+    *University names in ediucation section
+    *Rows in the table
+    *icons in the nav bar.
+    
