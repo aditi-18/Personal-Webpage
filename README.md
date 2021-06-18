@@ -30,17 +30,17 @@ The icons in the nav bar are enabled with the hover feature. On placing the curs
 
 ### 3.Internal Links
 The following elements on the page are internally linked-
-    -Contact me button on the home screen. This redirects to the contact me section.
-    -All the elements in the nav bar are internal links. Eg-Education icon lands to education section, Projects to project section.
-    -'Aditi' link on the botton left lands to about section.
+    1.Contact me button on the home screen. This redirects to the contact me section.
+    2.All the elements in the nav bar are internal links. Eg-Education icon lands to education section, Projects to project section.
+    3.'Aditi' link on the botton left lands to about section.
     
 ### 4. External links
-    -Linkdein icon at the top left corner.
-    -Github icon at the top left corner.
-    -Download Resume downloads the resume.
-    -'Northeastern University,Boston,MA'  is a link in the education section.
-    -'Nitte Meenakshi Institute of Technology, Bangalore, India' is a link in the education section.
-    - Linkdein in contact me section.
+    1.Linkdein icon at the top left corner.
+    2.Github icon at the top left corner.
+    3.Download Resume downloads the resume.
+    4.'Northeastern University,Boston,MA'  is a link in the education section.
+    5.'Nitte Meenakshi Institute of Technology, Bangalore, India' is a link in the education section.
+    6.Linkdein in contact me section.
 
 ### 5. CSS styled table
 
@@ -49,19 +49,19 @@ The technical knowledge section has a table styled using css.
 
 ### 6. Interactive component
 
-    - The nav bar opens when the toggle icon is clicked.
-    - The bar closes when the cross icon is clicked.
-    - On clicking the an icon in the work experience section, text is displayed. On further clicking it, the text disappears.
-    ![](/img/cl.PNG)
-    ![](/img/cl1.PNG)
-    *Animated button dropdown- when one button is clicked, text appears in the project section.
-    ![](/img/pr.PNG)
+    1.The nav bar opens when the toggle icon is clicked.
+    2.The bar closes when the cross icon is clicked.
+    3.On clicking the an icon in the work experience section, text is displayed. On further clicking it, the text disappears.
+        ![](/img/cl.PNG)
+        ![](/img/cl1.PNG)
+    4.Animated button dropdown- when one button is clicked, text appears in the project section.
+        ![](/img/pr.PNG)
 
 ### Mouse hovering
     The following have mouse hover enabled-
 
-    -Contact me button
-    -Download resumw button
-    -University names in ediucation section
-    -Rows in the table
-    -icons in the nav bar.
+    1.Contact me button
+    2.Download resumw button
+    3.University names in ediucation section
+    4.Rows in the table
+    5.icons in the nav bar.
