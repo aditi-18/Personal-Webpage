@@ -30,7 +30,29 @@ The icons in the nav bar are enabled with the hover feature. On placing the curs
 
 ### 3.Internal Links
 The following elements on the page are internally linked-
-    1.Contact me button on the home screen. This redirects to the contact me section.
-    2.All the elements in the nav bar are internal links. Eg-Education icon lands to education section, Projects to project section.
-    3.'Aditi' link on the botton left lands to about section.
+    *Contact me button on the home screen. This redirects to the contact me section.
+    *All the elements in the nav bar are internal links. Eg-Education icon lands to education section, Projects to project section.
+    *'Aditi' link on the botton left lands to about section.
     
+### 4. External links
+    *Linkdein icon at the top left corner.
+    *Github icon at the top left corner.
+    *Download Resume downloads the resume.
+    *'Northeastern University,Boston,MA'  is a link in the education section.
+    *'Nitte Meenakshi Institute of Technology, Bangalore, India' is a link in the education section.
+    * Linkdein in contact me section.
+
+### 5. CSS styled table
+
+The technical knowledge section has a table styled using css.
+![](/img/table.PNG)
+
+### 6. Interactive component
+
+    * The nav bar opens when the toggle icon is clicked.
+    * The bar closes when the cross icon is clicked.
+    * On clicking the an icon in the work experience section, text is displayed. On further clicking it, the text disappears.
+    ![](/img/cl.PNG)
+    ![](/img/cl1.PNG)
+    *Animated button dropdown- when one button is clicked, text appears in the project section.
+    ![](/img/pr.PNG)
