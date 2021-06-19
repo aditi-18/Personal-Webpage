@@ -2,6 +2,8 @@
 
 This is my personal webpage. I have built this webpage from scratch using HTML, CSS, JavaScript. I have used this webpage to depict my resume.
 
+Heroku link- https://personal-resume-aditi.herokuapp.com/
+
 ## Features of this webpage
 
 ### 1.Responsive
