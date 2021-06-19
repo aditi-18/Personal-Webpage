@@ -793,7 +793,7 @@ padding-right: 6%;
      }
        
         .about_img{
-           margin-right: 1100%;
+           margin-right: 10%;
         }
         
         .section{
@@ -1026,7 +1026,7 @@ padding-right: 6%;
                 column-gap: 5rem;
                 
             }
-            .nav_close,.nav_toggle{
+            .nav_close{
               display:none;
             }
 

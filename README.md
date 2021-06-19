@@ -10,11 +10,9 @@ This is my personal webpage. I have built this webpage from scratch using HTML, 
 When viewed on a big screen-
 ![](/img/bigscreen.PNG)
 
-When viewed on a medium screen-
+When viewed on a small/medium screen-
 ![](/img/medium.PNG)
 
-When viewed on a small screen-
-![](/img/small.PNG)
 
 
 ### 2. Navigation bar
@@ -22,7 +20,7 @@ This can be opened using the apps icon at the botton of the page. This bar helps
 Nav bar viewed on small screen-
 ![](/img/nava.PNG)
 
-Nva bar on big screen-
+Nav bar on big screen-
 ![](/img/navs.PNG)
 
 The icons in the nav bar are enabled with the hover feature. On placing the cursor on the icons of the nav bar, they turn brown in colour.
@@ -57,11 +55,11 @@ The technical knowledge section has a table styled using css.
  4.Animated button dropdown- when one button is clicked, text appears in the project section.
 ![](/img/pr.PNG)
 
-### Mouse hovering
+### 7.Mouse hovering
  The following have mouse hover enabled-
 
 1.Contact me button
-2.Download resumw button
-3.University names in ediucation section
+2.Download resume button
+3.University names in ediucation section.
 4.Rows in the table
-5.icons in the nav bar.
+5.Icons in the nav bar.
